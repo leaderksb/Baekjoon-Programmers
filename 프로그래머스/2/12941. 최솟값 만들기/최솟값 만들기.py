@@ -1,5 +1,6 @@
 from math import prod
 
+
 def solution(A,B):
     A.sort()
     B.sort(reverse=True)
